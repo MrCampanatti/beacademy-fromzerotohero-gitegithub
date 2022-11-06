@@ -1,2 +1,2 @@
-# Conhecendo Git e Github
+# Conhecendo Git e Github, ajustes na configuração
 Training, Learning
